@@ -1,0 +1,9 @@
+librosa
+ffmpeg
+noisereduce
+matplotlib
+keras
+sklearn
+pyaudio
+pandas
+datetime
